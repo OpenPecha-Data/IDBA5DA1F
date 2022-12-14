@@ -1,0 +1,26 @@
+id: IDBA5DA1F
+default_language: en-us
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 14:35:33.326916+00:00
+last_modified: 2022-12-14 14:35:33.326922+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-072-008
+  eft-text-version: 1.22.3 2020
+  title: Toh_308-Questions_Regarding_Death_and_Transmigration-v2
+bases:
+  CD59:
+    source_metadata: null
+    order: 1
+    base_file: CD59.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
